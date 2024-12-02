@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [İrem]!
+# 👋 Hi, I'm İrem!
 
 ## 🚀 About Me
 - 🎓 [I am an information management student at Hacettepe University.]
