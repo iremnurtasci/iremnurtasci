@@ -10,21 +10,16 @@
 ---
 
 ## 📈 GitHub Stats
-
-# GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iremnurtasci&show_icons=true&theme=default" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=iremnurtasci&show_icons=true&theme=light" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=default" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=light" alt="Top Languages">
     </td>
   </tr>
 </table>
-
-
 
 ---
 
