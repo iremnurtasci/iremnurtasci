@@ -11,11 +11,18 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iremnurtasci&show_icons=true&theme=radical)
+# GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=radical)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iremnurtasci&show_icons=true&theme=default" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=default" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 
 
