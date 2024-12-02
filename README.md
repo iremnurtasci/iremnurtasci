@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm [İrem]!
 
-<!--
-**iremnurtasci/iremnurtasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 [I am an information management student at Hacettepe University.]
+- 🌱 Currently learning: **Python**, **HTML/CSS**, **SQL**
+- 💼 Interests: **Information Management**, **Project Management**, **Web Design**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming Languages:** Python, HTML/CSS, SQL
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iremnurtasci&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+- 📚 [Kütüphane Katalogu](https://github.com/iremnurtasci/bby361_iremtasci)
+- 🚗 [Jetilaç App](https://github.com/iremnurtasci/Jetilac-OUA-2023-Bootcamp)
+- 🌍 [AcademyCat](https://github.com/iremnurtasci/F-65_ACADEMYCAT)
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: [iremntsc@gmail.com](mailto:iremntsc@gmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/irem-nur-tasci/)
+---
+
+
+
