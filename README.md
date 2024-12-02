@@ -15,6 +15,15 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurtasci&layout=compact&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=iremnurtasci&color=black)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?iremnurtasci=yourusername&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iremnurtasci&theme=radical)
+
+
+
+
 ---
 
 ## 🌟 Featured Projects
