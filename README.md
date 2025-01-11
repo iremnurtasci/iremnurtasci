@@ -24,6 +24,7 @@
 ---
 
 ## 🌟 Featured Projects
+- 🎵 [GIS of Global Artists](https://github.com/iremnurtasci/gis-of-global-artists)
 - 📚 [Kütüphane Katalogu](https://github.com/iremnurtasci/bby361_iremtasci)
 - 🚗 [Jetilaç App](https://github.com/iremnurtasci/Jetilac-OUA-2023-Bootcamp)
 - 🌍 [AcademyCat](https://github.com/iremnurtasci/F-65_ACADEMYCAT)
