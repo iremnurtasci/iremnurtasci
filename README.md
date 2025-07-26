@@ -1,7 +1,7 @@
 # 👋 Hi, I'm İrem!
 
 ## 🚀 About Me
-- 🎓 I am an Information Management student at Hacettepe University.
+- 🎓 I graduated from Hacettepe University with a bachelor's degree in Information Management.
 - 🌱 Currently learning: **Python**, **HTML/CSS**, **SQL**
 - 💼 Interests: **Information Management**, **Project Management**, **Web Design**
 
